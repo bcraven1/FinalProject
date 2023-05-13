@@ -1,4 +1,4 @@
-// bcraven1
+// Benjamin Craven | bcraven1
 
 #include <iostream>
 using namespace std;
