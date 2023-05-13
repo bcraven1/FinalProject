@@ -1,9 +1,11 @@
+// bcraven1
+
 #ifndef ID_H
 #define ID_H
+
 #include<string>
 #include<iostream>
 using namespace std;
-
 
 class FID {
     public:
