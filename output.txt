@@ -1,0 +1,20 @@
+Role: Student
+Name: Miley Cyrus
+Year: 3
+GPA: 3.95
+
+Role: Student
+Name: Lady Gaga
+Year: 1
+GPA: 3.08
+
+Role: Student
+Name: Ariana Grande
+Year: 4
+GPA: 2.79
+
+Role: Student
+Name: Alicia Keys
+Year: 2
+GPA: 3.44
+
