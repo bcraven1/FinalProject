@@ -1,4 +1,4 @@
-// bcraven1
+// Benjamin Craven | bcraven
 
 #include "ID.h"
 #include <string>
